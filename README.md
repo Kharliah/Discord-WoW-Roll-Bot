@@ -1,4 +1,4 @@
-# Discord-WoW-Roll-Bot
+# Discord WoW Roll Bot
 A self hosted python script to have a WoW-like roll system to scratch those death roll urges
 
 * Follow this guide on how to get a token for your bot: https://www.writebots.com/discord-bot-token/

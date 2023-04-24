@@ -3,7 +3,7 @@ A self hosted python script to have a WoW-like roll system to scratch those deat
 
 * Follow this guide on how to get a token for your bot: https://www.writebots.com/discord-bot-token/
 * Have Python installed on your device and also the Discord package - `pip install discord`
-* Put the token in the `<your client token here>` section
+* Put the token in the `<your client token here>` section as a string. i.e in quotation marks `client.run('ABCD-1234')
 * Run the script
 * ?????
 * PROFIT
